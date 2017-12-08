@@ -1,7 +1,13 @@
-# HBU SCC MTC
-
-- [iOS竞赛组](MobileTeminalContest/Team/iOS)
-
-- Android竞赛组
-
-###### 【[河北大学网络空间安全与计算机学院](http://cs.hbu.cn/)】
+# 河北大学 网络空间安全与计算机学院 iOS 竞赛组
+## 2018参赛队员
+- 钟文韬 https://github.com/William168052
+- 金雨诺 https://github.com/mengjiu999
+- 苗乔伟 https://github.com/MXbillow
+- 周朗睿 https://github.com/zlr0110
+## 2017参赛队员
+- 苏东航
+- 王佳萌
+- 钟文韬
+- 参赛成绩：http://cs.hbu.cn/details.aspx?type=news&id=945
+- 作品海报：  
+![](https://github.com/HbuIOS/iOS_Team/blob/master/RushParking.jpg)
