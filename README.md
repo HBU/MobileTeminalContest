@@ -1,13 +1,14 @@
 # HBU SCC MTC
 
-### 竞赛成员
+### 作品展示
 
-- [iOS竞赛组](https://github.com/HBU/MobileTeminalContest/tree/master/iOS)
-- [Android竞赛组](https://github.com/HBU/MobileTeminalContest/tree/master/Android)
+- [抢车位](https://github.com/HBU/MobileTeminalContest/tree/master/iOS)
 
 ### 竞赛培训
 
 - [培训计划](https://github.com/HBU/MobileTeminalContest/tree/master/TrainingScheme)
+- [iOS竞赛组队员](https://github.com/HBU/MobileTeminalContest/tree/master/iOS)
+- [Android竞赛组队员](https://github.com/HBU/MobileTeminalContest/tree/master/Android)
 
 ### 相关赛事
 
