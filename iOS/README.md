@@ -8,6 +8,5 @@
 - 苏东航
 - 王佳萌
 - 钟文韬
-- 参赛成绩：http://cs.hbu.cn/details.aspx?type=news&id=945
-- 作品海报：  
-![](https://github.com/HBU/MobileTeminalContest/blob/master/Image/RushParking.jpg)
+- [参赛成绩](http://cs.hbu.cn/details.aspx?type=news&id=945)
+- [作品海报](https://github.com/HBU/MobileTeminalContest/tree/master/WorkShow/RushParking)
