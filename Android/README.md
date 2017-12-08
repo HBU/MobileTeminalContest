@@ -1,4 +1,4 @@
-# 河北大学 网络空间安全与计算机学院 Android 竞赛组
+# Android 竞赛组
 ## 2018参赛队员
 - 李贺功 https://github.com/yesbutter
 - 毕智治 https://github.com/dadadazhi 
