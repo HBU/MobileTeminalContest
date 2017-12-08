@@ -1,4 +1,4 @@
-# 河北大学 网络空间安全与计算机学院 iOS 竞赛组
+# iOS 竞赛组
 ## 2018参赛队员
 - 钟文韬 https://github.com/William168052
 - 金雨诺 https://github.com/mengjiu999
