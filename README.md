@@ -1,11 +1,15 @@
 # HBU SCC MTC
 
-### 竞赛组成员
+### 竞赛成员
 
 - [iOS竞赛组](https://github.com/HBU/MobileTeminalContest/tree/master/iOS)
 - [Android竞赛组](https://github.com/HBU/MobileTeminalContest/tree/master/Android)
 
-### 相关赛事信息
+### 竞赛培训
+
+- [培训计划](https://github.com/HBU/MobileTeminalContest/tree/master/TrainingScheme)
+
+### 相关赛事
 
 - [华北五省（市、自治区）及港澳台大学生计算机应用大赛-移动互联网应用创新](http://bjcac.buu.edu.cn/)
 - [CCCC-移动应用创新赛](http://www.appcontest.net/)
