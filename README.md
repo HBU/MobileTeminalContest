@@ -3,7 +3,7 @@
 ### 作品展示
 
 - [抢车位](https://github.com/HBU/MobileTeminalContest/tree/master/WorkShow/RushParking)
-- [AndroidDemo](https://hbu.github.io/AndroidDemo/)
+- [Android例程学习网站](https://hbu.github.io/AndroidDemo/)
 
 ### 竞赛培训
 
