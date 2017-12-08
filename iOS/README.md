@@ -5,6 +5,8 @@
 - [苗乔伟](https://github.com/MXbillow)
 - [周朗睿](https://github.com/zlr0110)
 ## 2017参赛队员
-- 苏东航、王佳萌、钟文韬
-- [参赛成绩](http://cs.hbu.cn/details.aspx?type=news&id=945)
-- [作品海报](https://github.com/HBU/MobileTeminalContest/tree/master/WorkShow/RushParking)
+- 苏东航
+- 王佳萌
+- 钟文韬  
+[参赛成绩](http://cs.hbu.cn/details.aspx?type=news&id=945)  
+[作品海报](https://github.com/HBU/MobileTeminalContest/tree/master/WorkShow/RushParking)
