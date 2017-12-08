@@ -1,6 +1,6 @@
 # HBU SCC MTC
 
-- (iOS竞赛组)[MobileTeminalContest/Team/iOS]
+- [iOS竞赛组](MobileTeminalContest/Team/iOS)
 
 - Android竞赛组
 
