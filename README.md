@@ -3,7 +3,6 @@
 ### 竞赛组成员
 
 - [iOS竞赛组](https://github.com/HBU/MobileTeminalContest/tree/master/iOS)
-
 - [Android竞赛组](https://github.com/HBU/MobileTeminalContest/tree/master/Android)
 
 ### 相关赛事信息
