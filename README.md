@@ -2,7 +2,7 @@
 
 ### 作品展示
 
-- [抢车位](https://github.com/HBU/MobileTeminalContest/tree/master/iOS)
+- [抢车位](https://github.com/HBU/MobileTeminalContest/tree/master/WorkShow/RushParking)
 
 ### 竞赛培训
 
