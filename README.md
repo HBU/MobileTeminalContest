@@ -1,9 +1,6 @@
-# HBU SCC MTC
-
 ### 作品展示
 
 - [抢车位](https://github.com/HBU/MobileTeminalContest/blob/master/WorkShow/RushParking/)
-- [AndroidDemo](https://github.com/HBU/AndroidDemo)
 - [计算器iOS](https://github.com/HBU/MobileTeminalContest/blob/master/WorkShow/Calculator_iOS/)
 
 ### 竞赛培训
