@@ -15,12 +15,13 @@
 ### 相关赛事
 
 - [华北五省（市、自治区）及港澳台大学生计算机应用大赛-移动互联网应用创新](http://bjcac.buu.edu.cn/)
-- [CCCC-移动应用创新赛](http://www.appcontest.net/)
-- [Android 全国大学生移动互联网创新挑战赛](http://www.google.cn/university/androidchallenge/index.html)
-- [中国大学生服务外包创新创业大赛](http://www.fwwb.org.cn/index.html)
+- [中国高校计算机大赛-移动应用创新赛](http://www.appcontest.net/)
 - [中国大学生计算机设计大赛](http://www.jsjds.org/Index.asp)
-- [“中国软件杯”大学生软件设计大赛](http://www.cnsoftbei.com/)
+
+- [“创青春”全国大学生创业大赛](http://www.chuangqingchun.net/)
 - [“互联网+”大学生创新创业大赛](http://cy.ncss.org.cn/)
+
+- [Android 全国大学生移动互联网创新挑战赛](http://www.google.cn/university/androidchallenge/index.html)
 
 
 
