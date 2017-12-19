@@ -2,8 +2,9 @@
 
 ### 作品展示
 
-- [抢车位](https://github.com/HBU/MobileTeminalContest/tree/master/WorkShow/RushParking)
-- [Android例程学习网站](https://github.com/HBU/AndroidDemo)
+- [抢车位](https://github.com/HBU/MobileTeminalContest/blob/master/WorkShow/RushParking/README.md)
+- [AndroidDemo](https://github.com/HBU/AndroidDemo)
+- [计算器iOS](https://github.com/HBU/MobileTeminalContest/blob/master/WorkShow/Calculator_iOS/ReadMe.md)
 
 ### 竞赛培训
 
