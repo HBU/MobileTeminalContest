@@ -8,9 +8,9 @@
 
 ### 竞赛培训
 
-- [培训计划](https://github.com/HBU/MobileTeminalContest/tree/master/TrainingScheme)
-- [iOS竞赛组队员](https://github.com/HBU/MobileTeminalContest/tree/master/iOS)
-- [Android竞赛组队员](https://github.com/HBU/MobileTeminalContest/tree/master/Android)
+- [培训计划](https://github.com/HBU/MobileTeminalContest/blob/master/TrainingScheme/README.md)
+- [iOS竞赛组队员](https://hbuios.github.io/iOS_Team/)
+- [Android竞赛组队员](https://hbuandroid.github.io/AndroidTeam/)
 
 ### 相关赛事
 
