@@ -2,13 +2,13 @@
 
 ### 作品展示
 
-- [抢车位](https://github.com/HBU/MobileTeminalContest/blob/master/WorkShow/RushParking/README.md)
+- [抢车位](https://github.com/HBU/MobileTeminalContest/blob/master/WorkShow/RushParking/)
 - [AndroidDemo](https://github.com/HBU/AndroidDemo)
-- [计算器iOS](https://github.com/HBU/MobileTeminalContest/blob/master/WorkShow/Calculator_iOS/ReadMe.md)
+- [计算器iOS](https://github.com/HBU/MobileTeminalContest/blob/master/WorkShow/Calculator_iOS/)
 
 ### 竞赛培训
 
-- [培训计划](https://github.com/HBU/MobileTeminalContest/blob/master/TrainingScheme/README.md)
+- [培训计划](https://trainingplan.github.io/Training/)
 - [iOS竞赛组队员](https://hbuios.github.io/iOS_Team/)
 - [Android竞赛组队员](https://hbuandroid.github.io/AndroidTeam/)
 
