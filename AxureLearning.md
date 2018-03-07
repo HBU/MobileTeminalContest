@@ -20,9 +20,11 @@ Axure RP是一个专业的快速原型设计工具。
 
 ---------------------------------------------------------
 
-视频教程：https://huke88.com/route/axure.html?sem=baidu&kw=101397 （每天可以免费看一集）
-
 官网：https://www.axure.com/
+
+教程：https://www.axure.com.cn/category/axure/course/
+
+视频教程：https://huke88.com/route/axure.html?sem=baidu&kw=101397 （每天可以免费看一集）
 
 百度百科：https://baike.baidu.com/item/axure%20rp/9653646?fr=aladdin&fromid=5056136&fromtitle=axure
 
@@ -32,6 +34,7 @@ Windows汉化版：https://pan.baidu.com/s/1i503vLz#list/path=%2F
 被授权人：米 业成 (STUDENT) <br>
 授权秘钥：nFmqBBvEqdvbiUjy8NZiyWiRSg3yO+PtZ8c9wdwxWse4WprphvSu9sohAdpNnJK5
 
-Mac版：iOS组同学找到后发给我，我编辑到这个网页来。。
+Mac版：Koshy 
+wTADPqxn3KChzJxLmUr5jTTitCgsfRkftQQ1yIG9HmK83MYSm7GPxLREGn+Ii6xY
 
 
