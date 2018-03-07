@@ -24,6 +24,8 @@ Axure RP是一个专业的快速原型设计工具。
 
 Windows汉化版：https://pan.baidu.com/s/1i503vLz#list/path=%2F
 
-注册码：自己去网上搜……
+注册码：（如果不能用，自己再搜索一下）
+被授权人：米 业成 (STUDENT)
+授权秘钥：nFmqBBvEqdvbiUjy8NZiyWiRSg3yO+PtZ8c9wdwxWse4WprphvSu9sohAdpNnJK5
 
 
