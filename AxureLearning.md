@@ -39,7 +39,21 @@ wTADPqxn3KChzJxLmUr5jTTitCgsfRkftQQ1yIG9HmK83MYSm7GPxLREGn+Ii6xY
 
 ---------------------------------------------------------
 
-简易设计工具：https://www.mockplus.cn/
+# 简易设计工具：Mockplus
+
+官网：https://www.mockplus.cn/
+
+百度百科：https://baike.baidu.com/item/Mockplus/16191574?fr=aladdin
+
+--------------------------------------------------------
+
+# 区别
+
+axure就是photoshop，mockplus就是美图秀秀。
+
+想做简单的图，美图秀秀P的又快又美，稍微有一点点高要求，美图秀秀就hold不住了。
+
+
 
 
 
