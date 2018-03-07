@@ -28,8 +28,8 @@ Axure RP是一个专业的快速原型设计工具。
 
 Windows汉化版：https://pan.baidu.com/s/1i503vLz#list/path=%2F
 
-注册码：（如果不能用，自己再搜索一下）
-被授权人：米 业成 (STUDENT)
+注册码：（如果不能用，自己再搜索一下）\n
+被授权人：米 业成 (STUDENT) \n
 授权秘钥：nFmqBBvEqdvbiUjy8NZiyWiRSg3yO+PtZ8c9wdwxWse4WprphvSu9sohAdpNnJK5
 
 Mac版：iOS组同学找到后发给我，我编辑到这个网页来。。
