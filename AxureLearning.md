@@ -32,4 +32,6 @@ Windows汉化版：https://pan.baidu.com/s/1i503vLz#list/path=%2F
 被授权人：米 业成 (STUDENT)
 授权秘钥：nFmqBBvEqdvbiUjy8NZiyWiRSg3yO+PtZ8c9wdwxWse4WprphvSu9sohAdpNnJK5
 
+Mac版：iOS组同学找到后发给我，我编辑到这个网页来。。
+
 
